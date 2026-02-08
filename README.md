@@ -12,7 +12,7 @@ This project is an end-to-end data analytics solution built in Power BI to track
 ---
 ## 📂 Project Structure
 * `Global_Energy_Analysis.pbix`: The Power BI file containing the data model, DAX measures, and report pages.
-* `Screenshots/`: A folder containing high-resolution captures of the three main dashboard pages.
+* `Multi-page dashboard`: A folder containing high-resolution captures of the three main dashboard pages.
 
 ---
 ## ⚙️ Technical Implementation
