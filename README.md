@@ -28,15 +28,14 @@ Key measures driving the analytics:
 ## 📈 Visualizations & Dashboard Pages
 ### Overview
   * KPI cards for Total Production, Total Consumption, and Net Trade at the global level.
-  * Global slicers for Year and Country to control all pages.
-  * High‑level bar/line charts comparing production vs. consumption over time for selected countries.
 ### Production & Consumption
-  * Stacked or 100% stacked column chart of total production by year and category, highlighting how fuel types contribute to total output.
+  * 100% stacked column chart of total production by year and category, highlighting how fuel types contribute to total output.
   * Bar chart of Total Production vs. Total Consumption by country, making it easy to spot structural importers and exporters.
 ### Trade & Transitions
   * Map visual (Azure Maps) displaying Net Trade by country, with bubble size representing trade volume and color indicating surplus or deficit.
   * Treemap of Total Production by commodity transaction and country, revealing which fuels dominate in each region’s energy mix.
   * Ribbon chart that shows how the composition of production by category changes from 1990 to 2014.
+  * Global slicers for Year and Country to control all pages.
 
 ---
 ## 🔑 Key Takeaways
