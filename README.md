@@ -46,7 +46,7 @@ Key measures driving the analytics:
 
 ---
 🛠 Tools Utilized
-* **Power BI Desktop**: (Data Visualization & Modeling)
+* **Power BI Desktop**: Data visualization & modeling
 * **DAX (Data Analysis Expressions)**: Custom measures for production, consumption, and trade KPIs.
 * **Power Query**: Cleaning and shaping the energy dataset.
 * **Azure Maps**: Geospatial analysis of energy trade patterns.
